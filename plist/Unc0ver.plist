@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -17,13 +18,13 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.Last day on earth</string>
+<string>unc0ver</string>
 <key>bundle-version</key>
-<string>1.18.9</string>
+<string>7.2.2</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>Last day on earth</string>
+<string>unc0ver</string>
 </dict>
 </dict>
 </array>
