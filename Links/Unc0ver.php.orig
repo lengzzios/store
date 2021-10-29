@@ -21,7 +21,7 @@ text-decoration: none;
 </head>
 <body>
 
-<a style ='text-decoration: none; pointer-events:none' href="itms-services://?action=download-manifest&url=https://lengzzios.github.io/store/Unc0ver.plist">
+<a style ='text-decoration: none; pointer-events:none' href="itms-services://?action=download-manifest&url=https://lengzzios.github.io/store/plist/Unc0ver.plist">
 			<button class="btn" style="width:100%">Please wait <span id="displaySeconds"></span> </button>
 		</a></body>
 </html>
